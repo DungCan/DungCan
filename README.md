@@ -1,12 +1,12 @@
-- 👋 Hi, I’m [Dunz](https://top.gg/bot/627531554255798282)
+- **👋 Hi, I’m [Dunz](https://top.gg/bot/627531554255798282)**
 
-**🌱 I’m currently learning :** &nbsp;
+- **🌱 I’m currently learning :** &nbsp;
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
  <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-- 📫 Contact me in :
+- **📫 Contact me in :**
 ####
 ![Discord](https://discord.c99.nl/widget/theme-3/516482175617728514.png)
-- 📫 Another way:
+- **📫 Another way:**
 <a href="https://discord.gg/uFguJQV6Dw">
   <img align="left" alt="Discord Server" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
