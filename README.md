@@ -1,7 +1,7 @@
 - 👋 Hi, I’m [Dunz](https://top.gg/bot/627531554255798282)
-- 🌱 I’m currently learning [Javascript](https://www.w3schools.com/js/DEFAULT.asp) 🕶️
+
 **🌱 I’m currently learning :** &nbsp;
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
  <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 - 📫 Contact me in :
 ####
