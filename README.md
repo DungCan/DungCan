@@ -1,9 +1,5 @@
 - 👋 Hi, I’m [Dunz](https://top.gg/bot/627531554255798282)
-<a href="https://www.instagram.com/dunzisme/">
- 🌱 I’m currently learning [Javascript](https://www.w3schools.com/js/DEFAULT.asp) 🕶️
-  <img align="left" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-- 🌱 I’m currently learning [![Javascript](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg?size=25)](https://www.w3schools.com/js/DEFAULT.asp) 🕶️
+- 🌱 I’m currently learning [Javascript](https://www.w3schools.com/js/DEFAULT.asp) 🕶️
 - 📫 Contact me in :
 ####
 ![Discord](https://discord.c99.nl/widget/theme-3/516482175617728514.png)
