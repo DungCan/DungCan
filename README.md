@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [Dunz](https://top.gg/bot/627531554255798282)
-- 🌱 I’m currently learning Javascript 🕶️
+- 🌱 I’m currently learning [![Javascript](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg)](https://www.w3schools.com/js/DEFAULT.asp) 🕶️
 - 📫 Contact me in :
 ####
 ![Discord](https://discord.c99.nl/widget/theme-3/516482175617728514.png)
