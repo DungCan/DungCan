@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7A4C5&background=52FF6900&lines=Hi!+I'm+Dunz)](https://git.io/typing-svg)
+
 - **👋 Hi, I’m [Dunz](https://top.gg/bot/627531554255798282)**
 
 - **🌱 I’m currently learning :** &nbsp;
