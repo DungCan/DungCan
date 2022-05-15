@@ -8,8 +8,8 @@
   <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 - **📫 Contact me in :**
 ####
-![[Discord](https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord)](https://discord.com/users/516482175617728514/)
-![[FaceBook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook)](https://www.facebook.com/middpls/)
+[![Discord](https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord)](https://discord.com/users/516482175617728514/)
+[![FaceBook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook)](https://www.facebook.com/middpls/)
 - **📫 Another way:**
 <a href="https://discord.gg/uFguJQV6Dw">
   <img align="left" alt="Discord Server" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
