@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7A4C5&background=52FF6900&lines=Hi!+I'm+Dunz;Welcome+to+my+profile!)](https://git.io/typing-svg)
-
+## ![](https://komarev.com/ghpvc/?username=DungCan&label=Visitors+Count&color=brightgreen)
 - **👋 Hi, I’m [Dunz](https://top.gg/bot/627531554255798282)**
 
 - **🌱 I’m currently learning :** &nbsp;
@@ -22,5 +22,3 @@
 <a href="https://www.facebook.com/middpls/">
   <img align="left" alt="Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-####
-## ![](https://komarev.com/ghpvc/?username=DungCan&label=Visitors+Count&color=brightgreen)
