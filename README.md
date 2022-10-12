@@ -2,12 +2,13 @@
 ## ![](https://komarev.com/ghpvc/?username=DungCan&label=Visitors+Count&color=brightgreen)
 - **👋 Hi, I’m [Dunz](https://top.gg/bot/627531554255798282)**
 
-- **💳 GET FREE 200$ CLOUD [VPS CREDIT](https://j2c.cc/freehosting)**
-
 - **🌱 I’m currently learning :** &nbsp;
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
  <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+  
+  - **💳 GET FREE 200$ CLOUD [VPS CREDIT](https://j2c.cc/freehosting)**
+
 - **📫 Contact me in :**
 ####
 [![Discord](https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord)](https://discord.com/users/516482175617728514/)
