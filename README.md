@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7A4C5&background=52FF6900&lines=Hi!+I'm+Dunz;Welcome+to+my+profile!)](https://git.io/typing-svg)
+<a href="https://www.digitalocean.com/?refcode=035badd17b4b&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 ## ![](https://komarev.com/ghpvc/?username=DungCan&label=Visitors+Count&color=brightgreen)
 - **👋 Hi, I’m [Dunz](https://top.gg/bot/627531554255798282)**
 
@@ -23,4 +24,4 @@
 <a href="https://www.facebook.com/middpls/">
   <img align="left" alt="Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.digitalocean.com/?refcode=035badd17b4b&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+
